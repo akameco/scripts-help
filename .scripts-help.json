@@ -1,0 +1,11 @@
+{
+  "add-contributor": "",
+  "precommit": "",
+  "fmt": "フォーマット",
+  "flow": "",
+  "lint": "",
+  "test": "",
+  "test:cov": "",
+  "test:ci": "",
+  "help": ""
+}
