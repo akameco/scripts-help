@@ -1,11 +1,11 @@
 {
-  "add-contributor": "",
+  "add-contributor": "Run `add-contributor user_name code`",
   "precommit": "",
-  "fmt": "フォーマット",
+  "fmt": "Only prettier version",
   "flow": "",
-  "lint": "",
-  "test": "",
-  "test:cov": "",
+  "lint": "Run EsLint",
+  "test": "Run Jest",
+  "test:cov": "Test with coverage",
   "test:ci": "",
-  "help": ""
+  "help": "Show help"
 }
