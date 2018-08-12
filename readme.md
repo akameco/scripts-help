@@ -7,6 +7,8 @@
 
 > help for npm scripts
 
+<img src="./media/demo.png"/>
+
 ## Install
 
 ```
