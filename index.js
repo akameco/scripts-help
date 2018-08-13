@@ -27,11 +27,7 @@ const create = async () => {
     (acc, key) => Object.assign(acc, { [key]: '' }),
     {}
   )
-  await fs.writeFileSync(
-    DEFAULT_CONFIG_FILE,
-    JSON.stringify(keys, null, 2),
-    'utf8'
-  )
+  fs.writeFileSync(DEFAULT_CONFIG_FILE, JSON.stringify(keys, null, 2), 'utf8')
 }
 
 const help = async (patterns /* : string[] */ = ['*']) => {
