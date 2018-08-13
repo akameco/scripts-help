@@ -30,7 +30,29 @@ package.json
 ```
 
 ```
-npm run help
+$ yarn run help
+  start
+      Start Application
+
+  build
+      Run before start
+
+  build:dev
+      Build for dev
+
+  help
+      Show Help.
+```
+
+.scripts-help.json
+
+```json
+{
+  "start": "Start Application",
+  "build": "Run before start",
+  "build:dev": "Build for dev",
+  "help": "Show Help."
+}
 ```
 
 ## Locale
