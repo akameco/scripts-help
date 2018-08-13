@@ -7,6 +7,11 @@
 
 > help for npm scripts
 
+## Motivation
+
+- No installation until needed
+- Not need to change existing code
+
 <img src="./media/demo.png"/>
 
 ## Install
