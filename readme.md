@@ -14,12 +14,6 @@
 
 <img src="./media/demo.png"/>
 
-## Install
-
-```
-$ npm i -g scripts-help
-```
-
 ## Usage
 
 package.json
@@ -58,6 +52,14 @@ create `.scripts-help.json` from `package.json`.
 
 ```
 npm run help --create
+```
+
+## Install?
+
+If you want.
+
+```
+$ npm i -g scripts-help
 ```
 
 ## Contributors
