@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`create snapshot 1`] = `
+"{
+  \\"add-contributor\\": \\"\\",
+  \\"precommit\\": \\"\\",
+  \\"fmt\\": \\"\\",
+  \\"flow\\": \\"\\",
+  \\"lint\\": \\"\\",
+  \\"test\\": \\"\\",
+  \\"test:ci\\": \\"\\",
+  \\"help\\": \\"\\"
+}"
+`;
+
+exports[`help snapshot 1`] = `
+"  [1madd-contributor[22m
+[2m      \`add-contributor ユーザ名 code\`でreadmeにコントリビューターとして追加します[22m
+
+  [1mprecommit[22m
+[2m      No description[22m
+
+  [1mfmt[22m
+[2m      prettierのバージョンを上げたときに実行[22m
+
+  [1mflow[22m
+[2m      flowを実行[22m
+
+  [1mlint[22m
+[2m      eslintを実行[22m
+
+  [1mtest[22m
+[2m      テストを実行[22m
+
+  [1mtest:cov[22m
+[2m      カバレッジありでjestを実行[22m
+
+  [1mtest:ci[22m
+[2m      No description[22m
+
+  [1mhelp[22m
+[2m      helpを表示[22m
+"
+`;

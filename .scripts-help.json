@@ -1,11 +1,10 @@
 {
-  "add-contributor": "Run `add-contributor user_name code`",
+  "add-contributor": "",
   "precommit": "",
-  "fmt": "Only prettier version",
+  "fmt": "",
   "flow": "",
-  "lint": "Run EsLint",
-  "test": "Run Jest",
-  "test:cov": "Test with coverage",
+  "lint": "",
+  "test": "",
   "test:ci": "",
-  "help": "Show help"
+  "help": ""
 }
