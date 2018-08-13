@@ -68,6 +68,15 @@ $ yarn run help
 }
 ```
 
+```
+$ yarn run help 'build:*'
+  build
+      ビルドを実行
+
+  build:dev
+      dev環境向けにビルドを実行
+```
+
 ## Create
 
 create `.scripts-help.json` from `package.json`.

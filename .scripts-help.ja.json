@@ -1,11 +1,6 @@
 {
-  "add-contributor": "`add-contributor ユーザ名 code`でreadmeにコントリビューターとして追加します",
-  "precommit": "",
-  "fmt": "prettierのバージョンを上げたときに実行",
-  "flow": "flowを実行",
-  "lint": "eslintを実行",
-  "test": "テストを実行",
-  "test:cov": "カバレッジありでjestを実行",
-  "test:ci": "",
-  "help": "helpを表示"
+  "start": "アプリケーションを実行します。先にbuildを実行してください",
+  "build": "ビルドを実行",
+  "build:dev": "dev環境向けにビルドを実行",
+  "help": "ヘルプを表示"
 }
