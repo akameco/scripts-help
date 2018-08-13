@@ -1,6 +1,6 @@
 {
   "name": "scripts-help",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "help for npm scripts",
   "license": "MIT",
   "repository": "akameco/scripts-help",
